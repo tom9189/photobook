@@ -1,0 +1,42 @@
+#help {
+  color: lightblue;
+}
+
+body {
+  background-color: black;
+}
+
+#helpthem {
+  color: lightblue;
+}
+
+#photos {
+  color: lightblue;
+}
+
+#letsHelp {
+  color: yellow;
+}
+
+
+  
+}
+
+body {
+  background-color: $background;
+}
+
+h1 {
+  font-size: 65px;
+  text-transform: uppercase;
+  font-family: "Archivo Black", "Archivo", sans-serif;
+  font-weight: normal;
+  display: block;
+  width: 600px;
+  max-width: 80vw;
+  min-height: 90px;
+  height: auto;
+  text-align: center;
+  margin: 10rem auto;
+  margin: calc(50vh - 5rem) auto;
+}
